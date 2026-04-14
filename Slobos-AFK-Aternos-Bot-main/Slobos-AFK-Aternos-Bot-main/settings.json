@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BRBOT183",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "183BR.aternos.me",
-    "port":  43673,
+    "port": 43673,
     "version": "1.21.11",
     "try-creative": true
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "brbot",
+        "hello",
+        "idk what to write"
       ]
     },
     "chat-log": true,
